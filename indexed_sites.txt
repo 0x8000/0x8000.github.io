@@ -1,0 +1,4 @@
+# Currently indexed sites. To submit new site add an issue here https://github.com/0x8000/0x8000.github.io/issues
+
+*.nb.rs
+*.ac.rs
